@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+.recipe-links {
+    display: inline-block;
+    text-align: left;
+}
+
+.recipe-title {
+    text-align: center;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+}
+
+.recipe-headings {
+    text-align: left;
+    padding-left: 8%;
+}
+
+.recipe-content {
+    text-align: left;
+    padding-left: 10%;
+}
